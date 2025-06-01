@@ -1,5 +1,27 @@
-# Students-spending-analysis
-
-<iframe title="spend" width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiMDEwNjQyMDAtNzAxNC00MTdiLWE1NTEtYTkyODUzZjQxZDFlIiwidCI6ImUwYzk0NGU4LWM5N2YtNGUwMS04MWUwLWRkMzZjZTk5YTgwYyJ9" frameborder="0" allowFullScreen="true"></iframe>
-
-https://app.powerbi.com/view?r=eyJrIjoiMDEwNjQyMDAtNzAxNC00MTdiLWE1NTEtYTkyODUzZjQxZDFlIiwidCI6ImUwYzk0NGU4LWM5N2YtNGUwMS04MWUwLWRkMzZjZTk5YTgwYyJ9
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="UTF-8">
+  <title>Power BI Dashboard</title>
+  <style>
+    body {
+      font-family: Arial, sans-serif;
+      text-align: center;
+      padding: 20px;
+    }
+    iframe {
+      border: none;
+      width: 100%;
+      height: 800px;
+      max-width: 1200px;
+    }
+  </style>
+</head>
+<body>
+  <h1>My Power BI Dashboard</h1>
+  <iframe title="spend"
+          src="https://app.powerbi.com/view?r=eyJrIjoiMDEwNjQyMDAtNzAxNC00MTdiLWE1NTEtYTkyODUzZjQxZDFlIiwidCI6ImUwYzk0NGU4LWM5N2YtNGUwMS04MWUwLWRkMzZjZTk5YTgwYyJ9"
+          allowFullScreen="true">
+  </iframe>
+</body>
+</html>
